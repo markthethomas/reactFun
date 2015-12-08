@@ -1,0 +1,23 @@
+{
+  "name": "reactfun",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markthethomas/reactFun.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "author": "Mark Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markthethomas/reactFun/issues"
+  },
+  "homepage": "https://github.com/markthethomas/reactFun#readme"
+}
