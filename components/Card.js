@@ -11,7 +11,7 @@ class Card extends React.Component {
       <div className={this.props.className}>
         <Panel>
           <h2>{this.props.title}</h2>
-          <Image src={this.props.img} responsive />
+          <Image src="http://placehold.it/300x200" responsive />
           <p>
             {this.props.description}
           </p>
