@@ -35,7 +35,7 @@ class App extends React.Component {
         {
           this.state.pins.map((site) => {
             return (
-              <Card className="card" url={site.url} description={site.description}/>
+              <Card className="card" title={site.title} url={site.url} description={site.description}/>
             )
           })
         }

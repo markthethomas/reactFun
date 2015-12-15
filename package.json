@@ -36,6 +36,7 @@
     "chai-immutable": "^1.5.3",
     "enzyme": "^1.2.0",
     "reagent": "^1.0.1",
+    "redux-devtools": "^2.1.5",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
   },
